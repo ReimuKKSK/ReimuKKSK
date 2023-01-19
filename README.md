@@ -23,7 +23,7 @@ Kaenbyou Rin is the best
 [![](https://img.shields.io/badge/Xbox-b?style=flat-square&logo=xbox)](https://www.xbox.com/)
 [![](https://img.shields.io/badge/Steam-black?style=flat-square&logo=steam)](https://steamcommunity.com/id/qing_yue)
 
-[![](https://img.shields.io/badge/TT今天播點什麽-505050?style=flat-square&logo=bilibili)](https://bilibili.com/)
+[![](https://img.shields.io/badge/火焰貓燐Fumo-505050?style=flat-square&logo=bilibili)](https://bilibili.com/)
 [![](https://img.shields.io/badge/Rin_kksk-505050?style=flat-square&logo=pixiv)](https://pixiv.net/)
 [![](https://img.shields.io/badge/@offical_qingyue-505050?style=flat-square&logo=twitter)](https://twitter.com/)
 [![](https://img.shields.io/badge/2868726997-505050?style=flat-square&logo=tencentqq)](https://qq.com/)
